@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cars">
+        <item>First car - 60 kph</item>
+        <item>Second car - 80 kph</item>
+        <item>Third car - 100 kph</item>
+        <item>Fourth car - 120 kph</item>
+    </string-array>
+
+</resources>

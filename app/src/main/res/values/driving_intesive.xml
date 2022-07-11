@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="intensive">
+        <item>Low Intensive</item>
+        <item>Medium Intensive</item>
+        <item>High Intensive</item>
+    </string-array>
+
+</resources>
